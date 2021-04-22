@@ -1,0 +1,6 @@
+framework module Pods_SystemViewControllers {
+  umbrella header "Pods-SystemViewControllers-umbrella.h"
+
+  export *
+  module * { export * }
+}
